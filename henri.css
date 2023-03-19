@@ -1,0 +1,239 @@
+.s1{
+    background-color: rgb(196, 196, 197);
+
+}
+.h1{
+    font-size: 200px;
+    color: white;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    line-height: 245px;
+font-family: 'Segoe UI';
+}
+.p1{
+    color: blue;
+    font-size: 40px;
+    width: 1050px;
+    margin-left: 50px;
+}
+.p2{
+    font-size: 15px;
+    width: 550px;
+    text-align: justify;
+    padding-bottom: 50px;
+    margin-left: 50px;
+    line-height: 20px;
+}
+.p3{
+    margin-left: 100px;
+    color: blue;
+    font-size: 45px;
+    margin-top: 60px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 500;
+}
+.p4{
+    margin-top: 0px;
+    width: 450px;
+    text-align: justify;
+    margin-left: 100px;
+    margin-bottom: 60px;
+    font-size: 20px;
+}
+.img1{
+    margin-left: 400px;
+    margin-top: 10px;
+    margin-left: 50;
+}
+.p5{
+    margin-left: 350px;
+    color: blue;
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: 500;
+}
+.p6{
+    width: 400px;
+    text-align: justify;
+    margin-left: 350px;
+    font-size: 20px;
+
+}
+.img2{
+    margin-left: 50px;
+    margin-bottom: 70px;
+}
+.s3{ 
+ display: flex;    
+}
+.div1{
+    background-color: rgb(218, 214, 214);
+    width: 1300px;
+    margin-left: 0px;
+}
+.div2{
+    background-color:blue;
+    width: 150px;
+    height: 350px;
+    padding-right: 100px;
+}   
+ .div3{ 
+    margin: 100px;
+    text-align: right;
+    width: 180px;  
+    font-size: 25px;
+    padding-top: 250px;
+    padding-right: 100px;
+}
+.img3{
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.p8{
+margin-top: 100px;
+margin-bottom: 20px;
+width: 400px;
+text-align: justify;
+font-size:15px; 
+margin-left: 100px;
+}
+.p9{
+    font-size: 65px;
+    color: blue;
+    width: 450px;
+    margin-left: 200px;
+    font-family: Arial;
+    padding-top: 15px;
+    font-weight: 700;
+}
+.p10{
+    text-align: justify;
+    width: 420px;
+    font-family: Arial;
+    line-height: 25px;
+    padding-right: 100px;
+}
+.p11{
+    background-color: rgb(3, 3, 236);
+    height: 50px;
+    width: 200px;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 10px;
+    color: white;
+    margin-left: 50px;
+}
+.p12{
+    text-align: justify;
+    width: 400px;
+    margin-left: 70px;
+    padding-top: 0px;
+}
+.img4{
+    padding-left: 400px;
+    padding-bottom: 70px;
+}
+.tbl0{
+ margin-top: 10px;   
+}
+.p13{
+    color: blue;
+    font-size: 40px;
+    width: 850px;
+    padding: 70px;
+    font-weight: 600;
+    font-family: segoe ui;
+
+}
+.p14{
+    padding-left: 350px;
+    padding-bottom: 25px;
+    font-weight: 700;
+    font-family: segoe ui;
+}
+.s5{
+    background-color: rgb(228, 226, 226);
+}
+.p15{
+    color: blue;
+    font-size: 100px;
+    padding-left: 70px;
+    padding-top: 5px;
+}
+.img5{
+    border-radius: 50% 50%;
+}
+.p16{
+font-size: 20px;
+font-weight: 100;
+}
+.p17{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: segoe ui;
+}
+.p18{
+    width: 300px;
+}
+.img6{  
+    margin-left: 400px;
+    border-radius: 50% 50%;
+}
+.p19{
+    font-size: 20px;
+    font-weight: 100;
+    margin-left: 400px;
+}
+.p20{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'segoe ui';
+    margin-left: 400px;  
+}
+.p21{
+    width: 300px; 
+    margin-left: 400px;  
+}
+.h2{
+    font-size: 200px;
+    color: white;
+    margin-left: 50px;
+    font-family: 'segoe ui';
+        
+}
+.s6{
+    background-color: rgb(211, 210, 210);
+}
+.h3{
+    font-family: 'segoe ui';
+    margin-left: 50px;
+    letter-spacing: 10px;
+}
+.p22{
+    padding-bottom: 50px;
+    margin-left: 50px;
+    font-size: 35px;
+    width: 500px;
+    font-family: 'segoe ui';
+    font-weight: 700;
+    color: blue;
+}
+.buto{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(18, 18, 223);
+    color: white;
+    margin-left: 50px;
+}
+.p23{
+  text-align: justify;
+  width: 300px; 
+  padding-left: 50px;  
+}
+.p24{
+    padding-left: 300px;
+    text-align: justify; 
+}
+.hr{
+    color: white;
+}
